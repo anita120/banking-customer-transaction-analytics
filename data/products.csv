@@ -1,0 +1,9 @@
+product_id,product_name,category
+P01,Savings Account,Deposit
+P02,Current Account,Deposit
+P03,Salary Account,Deposit
+P04,Fixed Deposit,Investment
+P05,Personal Loan,Lending
+P06,Home Loan,Lending
+P07,Credit Card,Cards
+P08,Insurance,Protection

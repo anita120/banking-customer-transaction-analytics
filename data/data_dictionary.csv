@@ -1,0 +1,27 @@
+table_name,column_name,description
+customers,customer_id,Unique customer identifier
+customers,customer_name,Synthetic customer name
+customers,age,Customer age
+customers,gender,Customer gender
+customers,city,Customer city
+customers,segment,"Mass, Affluent, or Premium"
+customers,join_date,Customer onboarding date
+customers,age_group,Derived age band
+accounts,account_id,Unique account identifier
+accounts,customer_id,Customer owning the account
+accounts,account_type,"Savings, Current, Salary, or Fixed Deposit"
+accounts,open_date,Account opening date
+accounts,balance,Current synthetic account balance
+products,product_id,Unique product identifier
+products,product_name,Banking product name
+products,category,Product category
+transactions,transaction_id,Unique transaction identifier
+transactions,account_id,Account associated with transaction
+transactions,transaction_date,Transaction date
+transactions,transaction_type,Debit or Credit
+transactions,amount,Transaction amount in INR
+transactions,channel,Transaction channel
+transactions,transaction_month,Derived YYYY-MM transaction period
+customer_products,customer_product_id,Unique customer-product record
+customer_products,customer_id,Customer identifier
+customer_products,product_id,Product identifier
