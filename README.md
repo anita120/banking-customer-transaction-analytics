@@ -284,9 +284,6 @@ The Power BI dashboard provides an executive-level view of:
 - Transaction Value by Customer Segment
 - Customer Activity Distribution
 
-### Dashboard Preview
-
-![Banking Customer & Transaction Analytics Dashboard](screenshots/dashboard_overview.png)
 
 ---
 
