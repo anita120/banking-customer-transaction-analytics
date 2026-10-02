@@ -6,6 +6,11 @@ This project demonstrates how raw banking data can be transformed into **busines
 
 ---
 
+### Dashboard Preview
+
+![Banking Customer & Transaction Analytics Dashboard](screenshots/dashboard_overview.png)
+
+
 ## 📌 Project Overview
 
 Banks generate large volumes of customer and transaction data. Raw transaction records alone do not provide an easy way to understand customer engagement, transaction behavior, or channel usage.
